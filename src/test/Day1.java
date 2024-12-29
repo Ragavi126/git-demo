@@ -15,5 +15,6 @@ public class Day1 {
    @Test
   public void secondtest() {
 	   System.out.println("hii");
+	   System.out.println("hii1");
    }
 }
